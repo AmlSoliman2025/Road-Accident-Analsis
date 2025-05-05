@@ -25,6 +25,12 @@ This project explores road accident data using SQL for data cleaning and transfo
 - Urban vs Rural and daylight vs darkness patterns
 - Interactive filters by authority, conditions, and accident type
 - Geo-map visualization for spatial analysis
+  
+## Insights Extracted
+- Urban areas had more casualties than rural (61% vs 39%).
+- Most accidents occurred during daylight and on single carriageways.
+- Slight accidents dominate the severity distribution.
+- Year-on-year trends show an increase in total casualties.
 
 ## 📁 Repository Structure
 - `sql_queries/` – Contains all SQL scripts used for analysis
