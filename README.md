@@ -14,7 +14,8 @@ This project explores road accident data using SQL for data cleaning and transfo
 
 
 - **Power BI**: Visualization and dashboarding
-- ![image](https://github.com/user-attachments/assets/fb4241de-9dac-4099-942d-d7678f9954b5)
+- ![image](https://github.com/user-attachments/assets/57bab78d-5073-4a34-bccf-1028f2bfb4b4)
+
 
 - **DAX**: Measures and calculated columns for KPIs
 
